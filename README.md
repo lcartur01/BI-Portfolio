@@ -1,5 +1,5 @@
 # BI-Portfolio
-Portfólio em construção com projetos voltados à estruturação de dados em SQL e aplicação de Business Intelligence, com direcionamento para análise de performance e planejamento financeiro (FP&A).
+Portfólio em construção com projetos voltados à estruturação de dados em SQL e aplicação de Business Intelligence, com direcionamento para análise de performance e planejamento financeiro.
 
 Cada pasta representa um projeto estruturado a partir de um dataset que permita análises financeiras e gerenciais, contendo, preferencialmente:
 - Receita
@@ -17,6 +17,7 @@ Cada projeto inicia com a definição do contexto empresarial, contendo:
 - Apresentação do negócio
 - Objetivos da análise
 - Perguntas-chave que direcionam a investigação
+
 O dataset é inserido neste contexto, servindo como base para responder às questões estratégicas propostas.
 
 ---
@@ -32,6 +33,7 @@ A etapa seguinte envolve a preparação e modelagem dos dados no SQL Server, inc
 - Criação de views analíticas
 - Implementação de índices
 - Queries exploratórias e analíticas
+
 O objetivo desta fase é garantir consistência, integridade e base estruturada para análise.
 
 ---
